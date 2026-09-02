@@ -1,12 +1,3 @@
-# Behavioural Screening Agent
-# Component 1: Gaze Stability
-#
-# Install with:
-#   pip install -r requirements.txt
-
+opencv-python==4.10.0.84
 numpy
-opencv-python
-mediapipe
-pandas
 matplotlib
-scipy
